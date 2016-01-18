@@ -6,5 +6,5 @@ Level | Result
 1 | Success
 2 | Success 
 3 | Success 
-4 | Failed 
-5... | Not Started
+4 | Success 
+5 | Failed
